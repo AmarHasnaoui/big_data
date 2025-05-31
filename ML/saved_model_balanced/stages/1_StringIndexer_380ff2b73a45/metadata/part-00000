@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1748569542577,"sparkVersion":"3.4.4","uid":"StringIndexer_380ff2b73a45","paramMap":{"inputCol":"card_brand","handleInvalid":"keep","outputCol":"card_brand_idx"},"defaultParamMap":{"handleInvalid":"error","stringOrderType":"frequencyDesc","outputCol":"StringIndexer_380ff2b73a45__output"}}

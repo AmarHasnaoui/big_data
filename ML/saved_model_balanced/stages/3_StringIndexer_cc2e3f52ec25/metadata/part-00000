@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1748569543035,"sparkVersion":"3.4.4","uid":"StringIndexer_cc2e3f52ec25","paramMap":{"outputCol":"has_chip_idx","handleInvalid":"keep","inputCol":"has_chip"},"defaultParamMap":{"outputCol":"StringIndexer_cc2e3f52ec25__output","stringOrderType":"frequencyDesc","handleInvalid":"error"}}
